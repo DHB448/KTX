@@ -85,14 +85,6 @@
 幼儿园B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao06_2/index.m3u8
 幼儿园B,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao06_2td.m3u8
 
-看熊猫1,https://pull-flv-t26-admin.douyincdn.com/stage/stream-7461870074245466880_md.flv?expire=67972bbc&major_anchor_level=common&sign=999acfbc537c695dcb724bc2838b7b59&unique_id=stream-7461870074245466880_823_flv_md&abr_pts=-800&select_mode=score&_session_id=037-20250120144619CEBBE6CB31A9B75BE62A.1737355586793.91928&rsi=1
-看熊猫1,https://pull-flv-t26.douyincdn.com/stage/stream-7461870074245466880_sd.flv?expire=67972bbc&major_anchor_level=common&sign=beac6c450f52752afc14485596603cd8&unique_id=stream-7461870074245466880_823_flv_sd&select_mode=score&pre_q=md&abr_pts=3441760&_session_id=037-20250120144619CEBBE6CB31A9B75BE62A.1737355594033.62009&rsi=1
-
-莽小武,https://pull-flv-l26.douyincdn.com/stage/stream-7461867713170852660_sd.flv?expire=67972098&major_anchor_level=common&sign=95ed3f1ae63d249979c9864edf5b031f&unique_id=stream-7461867713170852660_139_flv_sd&select_mode=score&pre_q=md&abr_pts=1162422&_session_id=037-202501201358474A23FCFBBF3BC684CF42.1737352742740.68394&rsi=1
-
-看熊猫2,https://pull-flv-l26.douyincdn.com/stage/stream-7461852733671344923_or4.flv?expire=67971b7a&major_anchor_level=common&sign=2cf7a0d062f1717973de99f233924920&unique_id=stream-7461852733671344923_139_flv_or4&abr_pts=-800&_session_id=037-20250120133658E923ED80E6941F8B92D0.1737351426519.98738&rsi=1
-看熊猫2,https://pull-flv-l26.douyincdn.com/stage/stream-7461852733671344923_sd.flv?expire=67971b7a&major_anchor_level=common&sign=1c4fe2f3d7b377b414b26cf8043b2f64&unique_id=stream-7461852733671344923_139_flv_sd
-看熊猫2,https://pull-flv-l26.douyincdn.com/stage/stream-7461852733671344923_sd.flv?expire=67971b7a&major_anchor_level=common&sign=1c4fe2f3d7b377b414b26cf8043b2f64&unique_id=stream-7461852733671344923_139_flv_sd&abr_pts=-800&_session_id=037-20250120133658E923ED80E6941F8B92D0.1737351502966.53929&rsi=1
 
 IPV4,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -248,9 +240,6 @@ CCTV-17农业,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV-4美洲,https://www.freetv.top/migu/608807416.m3u8?
 
-IFengZX,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-IFengWS,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-IFengXG,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
 央卫广电,#genre#
 CCTV-01频道,http://120.76.248.139/live/bfgd/4200000488.m3u8
@@ -506,88 +495,6 @@ CCTV18,http://116.131.173.194:8899/hls/18/index.m3u8
 60,http://116.131.173.194:8899/hls/60/index.m3u8
 61,http://116.131.173.194:8899/hls/61/index.m3u8
 
-频道3,#genre#
-CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=15654890039634427536
-CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=2038291520205345979
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=4547519954471704013
-CCTV3,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821
-CCTV5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
-CCTV6,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=14916759019483157794
-CCTV7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057
-CCTV7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp
-CCTV8,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=15852265263958669967
-CCTV9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856
-CCTV9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp
-CCTV10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188
-CCTV10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188
-CCTV12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
-CCTV12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
-CCTV14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
-CCTV14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
-CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700
-CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700
-
-
-
-CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
-CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
-CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
-CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8
-CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
-CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
-CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8
-CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
-CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8
-CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
-CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
-CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
-CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
-CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
-CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
-CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
-CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
-CCTV4美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
-CCTV4欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
-
-CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=ace
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=ace
-CCTV3,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=ace
-CCTV4,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-4sd/1500.m3u8?innersid=ace
-CCTV5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=ace
-CCTV6,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=ace
-CCTV7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=ace
-CCTV8,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=ace
-CCTV9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=ace
-CCTV10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=ace
-CCTV11,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-11sd/1500.m3u8?innersid=ace
-CCTV12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=ace
-CCTV13,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=ace
-CCTV14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=ace
-CCTV15,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-yysd/1500.m3u8?innersid=ace
-CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=ace
-
-
-CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=15654890039634427536&amp
-CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388&amp
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=2038291520205345979&amp
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=2038291520205345979&amp
-CCTV2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=4547519954471704013&amp
-CCTV3,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821&amp
-CCTV5,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981&amp
-CCTV6,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=14916759019483157794&amp
-CCTV7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp
-CCTV8,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=15852265263958669967&amp
-CCTV9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp
-CCTV10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188&amp
-CCTV12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730&amp
-CCTV14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862&amp
-CCTV17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700&amp
-
 
 高清频道,#genre#
 CCTV-1高清,http://www.8239999.xyz:8188/udp/239.93.18.184:5140
@@ -676,39 +583,21 @@ CETV-4,http://www.8239999.xyz:8188/udp/239.93.18.50:5140
 
 XW频道,#genre#
 
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-IFengZW,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 IFengZX,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 
 
 
