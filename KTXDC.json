@@ -4,7 +4,11 @@
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "🚀饭太硬线路"
-        },                      
+        },
+        {
+            "url": "http://fty.888484.xyz/tv",
+            "name": "🚀饭太硬备用"
+        }, 		
         {
             "url": "http://肥猫.com/",
             "name": "🚀肥猫线路"
@@ -13,10 +17,94 @@
             "url": "http://我不是.摸鱼儿.com",
             "name": "🚀摸鱼线路"
         }, 
+		{
+            "url": "http://etaishun.com/m3u8/hzm.json",
+            "name": "盒子迷（快） "
+        },
         {
-            "url": "http://ok321.top/ok",
-            "name": "🚀OK线路"
-        }, 
+            "url": "http://etaishun.com/m3u8/dm84.json",
+            "name": "动漫巴士（1.3）"
+        },
+        {
+            "url": "https://xn--z7x900a.com",
+            "name": "肥猫线路（1.3） "
+        },
+        {
+            "url": "http://yuan.haitangw.net/tv/",
+            "name": "科技长青（1.3）"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "传说线路（1.17）"
+        },
+        {
+            "url": "http://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "南风线路（1.18）"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "欧歌线路1（1.3）"
+        },
+        {
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "短剧接口（1.7） "
+        },
+        {
+            "url": "https://ztha.top/TVBox/thdjk.json",
+            "name": "挺好接口（1.17） "
+        },
+        {
+            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "name": "欧歌线路2（1.3） "
+        },
+        {
+            "url": "http://xhztv.top/dc/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json",
+            "name": "动漫频道（1.3）"
+        },
+        {
+            "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json",
+            "name": "神仙线路（1.3） "
+        },
+        {
+            "url": "http://fmys.top/fmys.json",
+            "name": "驸马线路（1.17）"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "TVBOX线路（1.3） "
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "高天流云（1.3） "
+        },
+        {
+            "url": "http://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "业余线路（1.3） "
+        },
+        {
+            "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+            "name": "蓝天线路（1.17）"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊佬线路（1.3） "
+        },
+        {
+            "url": "http://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "南风线路（1.3） "
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "小马线路（1.3）"
+        },
+        {
+            "url": "http://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+            "name": "天微线路"
+        },
+        {
+            "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+            "name": "青龙线路"
+        },
         {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "🚀王二小线路"
@@ -24,18 +112,6 @@
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "巧技"
-        },
-        {
-            "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
-            "name": "我不是摸鱼儿"
-        },
-        {
-            "name": "🐲🐲青龙",
-            "url": "https://6758.kstore.space/1.json"
-        },
-        {
-            "name": "🐯🐯白虎",
-            "url": "http://tvbox.王二小放牛娃.top"
         },
         {
             "name": "🦜🦜朱雀",
@@ -65,19 +141,11 @@
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
             "name": "🚀儿童专线"
         },   
-        {
-            "url": "http://fty.888484.xyz/tv",
-            "name": "🚀饭太硬备用"
-        }, 
+        
     {
       "url": "https://gitee.com/the-cold-wind-howls/ksj/raw/master/KKTXKKSJ.json",
       "name": "🚀观天下"
     },
-		
-        {
-            "url": "https://like.肥猫.com/PandaQ",
-            "name": "🚀肥猫备用"
-        }, 
         {
             "url": "https://d.kstore.dev/download/9280/wex.json",
             "name": "🚀王二小备用"
