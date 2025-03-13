@@ -1,0 +1,65 @@
+{
+  "urls": [
+    
+       {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "欧歌XX"
+        },
+        {
+            "url": "http://jianhan.vip/lcys/lcjk.json",
+            "name": "陆城影视"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+            "name": "李四配置源接口"
+        },
+        {
+            "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json",
+            "name": "常规+福利"
+        },
+        {
+            "url": "https://4k4k.shop",
+            "name": "大佬4K配置源"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀王二小线路"
+        },
+        {
+      "url": "https://raw.githubusercontent.com/DHB448/KTX/refs/heads/main/KKTXKKSJ.json",
+      "name": "🚀观天下"
+    },
+	{
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀饭太硬线路"
+        },
+        {
+            "url": "http://fty.888484.xyz/tv",
+            "name": "🚀饭太硬备用"
+        }, 		
+        {
+            "url": "http://肥猫.com/",
+            "name": "🚀肥猫线路"
+        },  
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀摸鱼线路"
+        }, 
+		{
+            "url": "http://etaishun.com/m3u8/hzm.json",
+            "name": "盒子迷（快） "
+        },
+        {
+            "url": "https://mpanso.me/DEMO.json",
+            "name": "小米接口"
+        },
+        {
+            "url": "https://xn--z7x900a.com",
+            "name": "肥猫线路（1.3） "
+        },
+        {
+            "url": "https://d.kstore.dev/download/9280/wex.json",
+            "name": "🚀王二小备用"
+        }
+  ]
+}
